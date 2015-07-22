@@ -1,0 +1,7 @@
+<map edf:definitions="race,editor_main">
+	<race name="BeachSideGP" tele="//bsgp" countdown="30" timeout="420" type="0" reward="75000" mintime="100" v1="494" v2="502" v3="503" v4="-1" v5="-1"></race>
+	<object id="object (vgsSairportland18) (1)" doublesided="false" model="8355" interior="0" dimension="0" posX="3072.5" posY="-1055.5" posZ="6.8099999427795" rotX="0" rotY="0" rotZ="0"></object>
+	<object id="object (vgsSairportland18) (2)" doublesided="false" model="8355" interior="0" dimension="0" posX="3072.5" posY="-917.5" posZ="6.8099999427795" rotX="0" rotY="0" rotZ="0"></object>
+	<object id="object (vgsSairportland18) (3)" doublesided="false" model="8355" interior="0" dimension="0" posX="3072.5" posY="-780.2998046875" posZ="6.8099999427795" rotX="0" rotY="0" rotZ="0"></object>
+	<object id="object (vgsSairportland09) (1)" doublesided="false" model="8343" interior="0" dimension="0" posX="3096.599609375" posY="-670.599609375" posZ="6.8099999427795" rotX="0" rotY="0" rotZ="0"></object>
+</map>

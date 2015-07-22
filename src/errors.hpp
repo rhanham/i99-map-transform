@@ -1,0 +1,26 @@
+#pragma once
+#include <string>
+namespace i99
+{
+	enum errors {
+		NO_ERROR = 0,
+		INVALID_COMMAND,
+		NO_INPUT_FILES,
+		NO_OUTPUT_FILES,
+		MISMATCHED_INPUT_OUTPUT_COUNT,
+		FILE_DOES_NOT_EXIST,
+		PATH_IS_NOT_A_FILE,
+		FAILED_TO_OPEN_MAP,
+		FAILED_TO_SAVE_MAP,
+		MAP_READ_ERROR,
+		MAP_PARSE_ERROR,
+		MISSING_MAP_NODE,
+		MISSING_POS_ATTRIBUTE,		
+		MAP_ITEM_READ_ERROR,
+		BAD_ALLOC,
+		NO_TRANSFORMS,		
+		NUM_ERRORS
+	};
+
+	std::string errorNumberToString(int e);
+}
